@@ -66,7 +66,7 @@ int main(void)
 		cout << "\tLargest element of tree == \"60\". (CORRECT)" << endl;
 	else
 		cout << "\tLargest element of tree != \"60\". (INCORRECT)" << endl;
-		/*
+		
 	// test IN_SUM
 	cout << "\nTESTING IN_SUM METHOD" << endl;
 	t.~tree();
@@ -149,6 +149,6 @@ int main(void)
 		cout << "Copy constructor corrrectly made tree t3 from tree t. (CORRECT)" << endl;
 	else
 		cout << "Copy constructor incorrrectly made tree t3 from tree t. (INCORRECT)" << endl;	
-	*/
+	
 	system("pause");
 }
